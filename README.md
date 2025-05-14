@@ -1,9 +1,7 @@
 # T-J-CloudChase
 
 
-	
-/*-------information-------------*/
-/*  Name: Yafet Hailu  */
+/* Created by Yafet Hailu  */
 /* Tom and Jerry cloud chase
 	In this game, Jerry faces a perilous situation as he dodges bombs while striving
 	to devour as much cheese as possible in level 1. If Jerry mistakenly touches a 
@@ -17,14 +15,13 @@
 					  - Advanced scoring system, 
 	score goes up by 3 everytime jerry eats cheese, and the hearts are decremented everytime
 	Jerry dies.
-/*-----------------------------------/
-			Instructions
-/------------------------------------*/	
-/*
+ 
+ 
+ <h2>Instructions</h2>
+
 	Button 0: restarts everything 
 	Button 1: jerry moves left
 	Button 1 & 2: jerry moves right
 	Button 2: jerry moves down
 	Button 2 & 0: jerry moves up
 	Button 3: jerry accelerates
-*/
