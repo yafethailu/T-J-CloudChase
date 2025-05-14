@@ -1,5 +1,8 @@
 #  Tom and Jerry cloud chase
 
+<div align="center">
+  <img src="tj.jpg" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 0 20px rgba(0,0,0,0.1); margin-right: 25px; float: left;"/>
+</div>
 
 <h1>Created by Yafet Hailu</h1>
 
